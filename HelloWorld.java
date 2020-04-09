@@ -38,5 +38,6 @@ public class HelloWorld {
     System.out.println("Modified Hello, World");
     System.out.println("pool SCM");
     System.out.println("Build Periodically");
+    System.out.println("Webhooks");
   }
 }
